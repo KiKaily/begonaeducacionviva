@@ -588,7 +588,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
-		color: #98c593;
+		color: #b9a9df;
 	}
 
 	sub {
@@ -662,7 +662,8 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: #98c593;
+		background-color: #b9a9df;
+		;
 		border: 0;
 		border-radius: 3.5em;
 		color: #ffffff;
@@ -2059,7 +2060,7 @@ input, select, textarea {
 			}
 
 			.main.dark .button.style2 {
-				border-color: #39454C;
+				border-color: #525f66;
 			}
 
 				.main.dark .button.style2:hover {
