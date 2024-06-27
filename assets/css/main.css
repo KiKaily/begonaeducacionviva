@@ -446,7 +446,7 @@ body, input, textarea, select {
   font-weight: 100;
   font-size: 18pt;
   line-height: 1.75em;
-  color: #39454b;
+  color: #3f2f5e;
   letter-spacing: 0.025em;
 }
 @media screen and (max-width: 1920px) {
@@ -544,7 +544,7 @@ p, ul, ol, dl, table {
 /* Box */
 .box {
   background: #ffffff;
-  color: #39454b;
+  color: #3f2f5e;
   padding: 2em;
 }
 .box > :last-child {
@@ -750,7 +750,7 @@ textarea {
   -webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
   -ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-  color: #39454b;
+  color: #3f2f5e;
   display: block;
   width: 100%;
   padding: 0.65em 0.75em;
@@ -1060,7 +1060,7 @@ table.default th {
   padding: 0.5em 1em 0.5em 1em;
 }
 table.default thead {
-  background: #39454b;
+  background: #3f2f5e;
   color: #ffffff;
 }
 table.default tfoot {
@@ -1776,13 +1776,13 @@ body {
   background: #f5f6f7;
 }
 .main.dark {
-  color: #ffffff;
+  color: #3f2f5e;
 }
 .main.dark a {
   color: inherit;
 }
 .main.dark .button.style2 {
-  border-color: #ffffff;
+  border-color: #3f2f5e;
 }
 .main.dark .button.style2:hover {
   background-color: rgba(255, 255, 255, 0.125);
